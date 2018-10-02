@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Brackets\\": "src/"
+            "Brackets\\Validation\\": "src/"
         }
     }
 }
